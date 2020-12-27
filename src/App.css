@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+  background-color: #00031f;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.App-header {
+  background-color: #00031f;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  font-weight: bold;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+#about{
+  background-color:#110e0e;
+  align-items: center;
+  text-align: center;
+  color:white;
+  font-style: normal;
+  font-weight: bold;
+  justify-content: center;
+  font-size: 3vh;
+
+}
+#contact{
+  color:white;
+  align-items: center;
+  text-align: center;
+  background-color: #00031f;
+  font-size: 3vh;
+}
